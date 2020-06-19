@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://tshirtstore:tshirtstore@cluster0-zzaou.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret":"surajsingh"
+}
